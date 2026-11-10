@@ -11,7 +11,7 @@ I explore real-world data and build tools that make mathematical ideas easier to
 
 | Project | Focus |
 | --- | --- |
-| **Seoul Bicycle Spatial & Network Analysis** | Exploring bicycle usage patterns through dimensionality reduction, clustering, spatial analysis, and network measures |
+| **[Seoul Bicycle Spatial & Network Analysis](https://github.com/choirobert0323-eng/JunghoonCDSproject.github.io)** | Exploring bicycle usage patterns through dimensionality reduction, clustering, spatial analysis, and network measures |
 | **IMDb SQL Analysis** | Organizing movie data and combining information from multiple sources with SQLite |
 | **Walmart Market Analysis** | Exploring stock-market data and visualizing Walmart alongside major U.S. market indices |
 | **HDI & Passport Index Analysis** | Comparing country-level indicators and exploring relationships between rankings |
@@ -20,9 +20,9 @@ I explore real-world data and build tools that make mathematical ideas easier to
 
 | Project | Technologies | Focus |
 | --- | --- | --- |
-| **ODE Analysis Toolkit** | Python · SymPy · NumPy | Rule-based first-order ODE analysis and numerical simulation examples |
-| **Learning Wave Visualizer** | React · Three.js · React Three Fiber | Mapping learning records into an interactive 3D curve |
-| **Audio Spectrogram Explorer** | FastAPI · librosa · Plotly | Connecting audio processing with 3D spectrograms and heatmaps |
+| **[ODE Analysis Toolkit](https://github.com/choirobert0323-eng/ode-analysis-toolkit)** | Python · SymPy · NumPy | Rule-based first-order ODE analysis and numerical simulation examples |
+| **[Learning Wave Visualizer](https://github.com/choirobert0323-eng/learning-wave-visualizer)** | React · Three.js · React Three Fiber | Mapping learning records into an interactive 3D curve |
+| **[Audio Spectrogram Explorer](https://github.com/choirobert0323-eng/audio-spectrogram-explorer)** | FastAPI · librosa · Plotly | Connecting audio processing with 3D spectrograms and heatmaps |
 
 ### Beyond Projects
 
@@ -34,5 +34,5 @@ I also tutor Computational and Data Science at George Mason University, helping 
 - Connect computation with visual explanations and reproducible examples.
 - Describe my contribution, assumptions, and limitations alongside the results.
 
-Repositories and supporting materials for the projects above are being organized for publication. Links will be added as each project is released.
+The linked repositories are available now. IMDb, Walmart and HDI project materials are still being prepared for publication.
 
