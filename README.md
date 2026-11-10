@@ -35,3 +35,4 @@ I also tutor Computational and Data Science at George Mason University, helping 
 - Describe my contribution, assumptions, and limitations alongside the results.
 
 Repositories and supporting materials for the projects above are being organized for publication. Links will be added as each project is released.
+
