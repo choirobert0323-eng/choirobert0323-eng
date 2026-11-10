@@ -1,25 +1,37 @@
-# Hi, I'm Junghoon 👋
+# Hi, I'm Junghoon Choi 👋
 
-I build interactive tools for exploring mathematics, learning data, and audio signals.
+**Computational and Data Science student at George Mason University**  
+Data Analysis · Scientific Computing · Interactive Visualization
 
-수학적 개념과 데이터를 직접 탐색할 수 있는 도구로 구현합니다. 계산 로직부터 시각화까지 연결하며, 결과를 이해하기 쉬운 형태로 표현하는 데 관심이 있습니다.
+I explore real-world data and build tools that make mathematical ideas easier to understand.
 
-### Featured Projects
+데이터 분석과 수학적 모델링을 바탕으로, 결과를 직접 탐색할 수 있는 시각화와 도구를 만듭니다.
 
-| Project | What it explores | Technologies |
-|---|---|---|
-| **ODE Analysis Toolkit** | Rule-based classification of first-order differential equations, numerical simulation, and coordinate transforms | Python · SymPy · NumPy |
-| **Learning Wave Visualizer** | An interactive 3D representation of learning records through curve shape and amplitude | React · Three.js · React Three Fiber |
-| **Audio Spectrogram Explorer** | Time–frequency analysis of audio through 3D spectrograms and heatmaps | Python · FastAPI · librosa · Plotly |
+### Selected Work
 
-### What interests me
+| Project | Focus |
+| --- | --- |
+| **Seoul Bicycle Spatial & Network Analysis** | Exploring bicycle usage patterns through dimensionality reduction, clustering, spatial analysis, and network measures |
+| **IMDb SQL Analysis** | Organizing movie data and combining information from multiple sources with SQLite |
+| **Walmart Market Analysis** | Exploring stock-market data and visualizing Walmart alongside major U.S. market indices |
+| **HDI & Passport Index Analysis** | Comparing country-level indicators and exploring relationships between rankings |
 
-- **Scientific computing** — turning mathematical ideas into computational experiments.
-- **Interactive visualization** — making abstract structures easier to explore.
-- **Practical tools** — connecting data processing with usable interfaces.
+### Tools & Experiments
 
-### How I approach projects
+| Project | Technologies | Focus |
+| --- | --- | --- |
+| **ODE Analysis Toolkit** | Python · SymPy · NumPy | Rule-based first-order ODE analysis and numerical simulation examples |
+| **Learning Wave Visualizer** | React · Three.js · React Three Fiber | Mapping learning records into an interactive 3D curve |
+| **Audio Spectrogram Explorer** | FastAPI · librosa · Plotly | Connecting audio processing with 3D spectrograms and heatmaps |
 
-I aim to make each project easy to try and understand through reproducible examples, clear setup instructions, and an honest account of its limitations.
+### Beyond Projects
 
-My current projects are exploratory prototypes. I use them to investigate ideas, refine implementations, and learn through building.
+I also tutor Computational and Data Science at George Mason University, helping students work through programming, modeling, and data visualization problems.
+
+### How I Work
+
+- Start with a clear question and inspect the data before choosing a method.
+- Connect computation with visual explanations and reproducible examples.
+- Describe my contribution, assumptions, and limitations alongside the results.
+
+Repositories and supporting materials for the projects above are being organized for publication. Links will be added as each project is released.
