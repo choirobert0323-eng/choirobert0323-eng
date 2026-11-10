@@ -12,8 +12,8 @@ I explore real-world data and build tools that make mathematical ideas easier to
 | Project | Focus |
 | --- | --- |
 | **[Seoul Bicycle Spatial & Network Analysis](https://github.com/choirobert0323-eng/JunghoonCDSproject.github.io)** | Exploring bicycle usage patterns through dimensionality reduction, clustering, spatial analysis, and network measures |
-| **IMDb SQL Analysis** | Organizing movie data and combining information from multiple sources with SQLite |
-| **Walmart Market Analysis** | Exploring stock-market data and visualizing Walmart alongside major U.S. market indices |
+| **[IMDb SQL Analysis](https://github.com/choirobert0323-eng/imdb-sql-analysis)** | SQLite schema recovery and query examples; synthetic demo included, original database linked on Drive |
+| **[Walmart Market Analysis](https://github.com/choirobert0323-eng/walmart-market-analysis)** | Historical exploratory notebook comparing Walmart and major U.S. indices; presentation linked on Drive (draft) |
 | **HDI & Passport Index Analysis** | Comparing country-level indicators and exploring relationships between rankings |
 
 ### Tools & Experiments
@@ -34,5 +34,5 @@ I also tutor Computational and Data Science at George Mason University, helping 
 - Connect computation with visual explanations and reproducible examples.
 - Describe my contribution, assumptions, and limitations alongside the results.
 
-The linked repositories are available now. IMDb, Walmart and HDI project materials are still being prepared for publication.
+Large original databases and presentations remain on Drive; the linked repositories contain lightweight code, SQL, documentation and examples. HDI source materials have been located locally, but its analysis code and data provenance are still under review.
 
